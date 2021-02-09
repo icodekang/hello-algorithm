@@ -12,16 +12,6 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 > - 算法基础知识
 > - 高频面试题解（图解）
 > - 算法视野扩展
->
-> [目前已支持 PDF 下载](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
-
-<div align="center">
-    <a href="https://www.geekxh.com"><img src="https://www.geekxh.com/readme/10.jpg"></a>
-</div>
-
-##### [点击下载本项目全部内容 提取码：【8f8b】 包括：1、我写的图解算法题典 2、千本开源电子书 3、百张思维导图 4、BAT/TMD 大厂面经 （如果链接失效，上方扫码回复即可）](https://www.geekxh.com/github_click.html?6072)
-
-<img src="https://www.geekxh.com/readme/github_click_0.png"></a>
 
 #### 本项目还包括 I：
 
