@@ -37,16 +37,6 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 
 3、如果是以面试为目的，可以直接对第二部分进行学习。如果基础薄弱，建议从第一部分进行学习。第三部分为专题学习，包含大部分算法资料。
 
-4、对于其中题目有疑惑，可以加入我们的<b>万人刷题群</b>，群里可内推 BAT。扫下面这只熊，回复【进群】即可。
-
-<br/>
-    <div align="center">
-        <a href="https://www.geekxh.com/readme/04.png" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://www.geekxh.com/readme/04.png" width="200px"></a>
-    </div>
-<br/>
-
-5、当然，也许你就想加我的私人微信: [个人名片](https://www.geekxh.com/contact.jpeg)
-
 PS：该项目包括了你在 IT 行业发展可以用到的绝大部分资料。但我希望大家不要当收藏党，找到适合自己的才重要。
 
 ### 正文
